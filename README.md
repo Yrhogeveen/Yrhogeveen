@@ -1,11 +1,11 @@
-Designer in Rotterdam, mostly working from home with my dog Murfy at my feet.
+Designer in Rotterdam, mostly working from home with my dog Murphy at my feet.
 
 I make small tools for my own life. Each one starts with a real problem, gets built with AI, and ends up here. I call them **Side Stories**.
 
 ---
 
 ### 01 · Dog Daybook
-*The problem:* I could never remember when Murfy last had her worm pill.
+*The problem:* I could never remember when Murphy last had her worm pill.
 
 A daybook for my dog: meals, walks, meds, and one page with everything her sitter needs. Pressed into soft pink paper, on purpose.
 
