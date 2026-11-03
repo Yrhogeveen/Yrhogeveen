@@ -4,12 +4,12 @@ I make small tools for my own life. Each one starts with a real problem, gets bu
 
 ---
 
-### 01 · Murfy's Law
+### 01 · Dog Daybook
 *The problem:* I could never remember when Murfy last had her worm pill.
 
-A tracker for my dog: walks, food, meds, vaccinations. Very pink, on purpose.
+A daybook for my dog: meals, walks, meds, and one page with everything her sitter needs. Pressed into soft pink paper, on purpose.
 
-*Coming soon*
+**[Live](https://yrhogeveen.github.io/dog-daybook/)** · [Code](https://github.com/Yrhogeveen/dog-daybook)
 
 ### 02 · Dutch practice
 *The problem:* My Dutch spelling and grammar could be sharper, and I wanted a way to practise that fits me.
