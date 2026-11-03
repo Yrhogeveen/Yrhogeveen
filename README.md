@@ -9,7 +9,7 @@ I make small tools for my own life. Each one starts with a real problem, gets bu
 
 A tracker for my dog: walks, food, meds, vaccinations. Very pink, on purpose.
 
-[Try it](https://Yrhogeveen.github.io/murfys-law) · [See how it's made](https://github.com/Yrhogeveen/murfys-law)
+*Coming soon*
 
 ### 02 · Next up
 Something to practise my Dutch, or to keep my training on track. Still deciding.
