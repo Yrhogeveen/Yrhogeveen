@@ -1,16 +1,19 @@
-## Hi there 👋
+Designer in Rotterdam, mostly working from home with my dog Murfy at my feet.
 
-<!--
-**Yrhogeveen/Yrhogeveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make small tools for my own life. Each one starts with a real problem, gets built with AI, and ends up here. I call them **Side Stories**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 01 · Murfy's Law
+*The problem:* I could never remember when Murfy last had her worm pill.
+
+A tracker for my dog: walks, food, meds, vaccinations. Very pink, on purpose.
+
+[Try it](https://Yrhogeveen.github.io/murfys-law) · [See how it's made](https://github.com/Yrhogeveen/murfys-law)
+
+### 02 · Next up
+Something to practise my Dutch, or to keep my training on track. Still deciding.
+
+---
+
+[Portfolio](https://yrhogeveen.nl) · [Instagram](https://instagram.com/YOUR-HANDLE)
