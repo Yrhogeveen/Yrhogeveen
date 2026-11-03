@@ -5,7 +5,7 @@ I make small tools for my own life. Each one starts with a real problem, gets bu
 ---
 
 ### 01 · Dog Daybook
-*The problem:* I could never remember when Murphy last had her worm pill.
+*The problem:* Murphy's whole routine lives in my head, so every time someone looks after her I end up explaining it all again.
 
 A daybook for my dog: meals, walks, meds, and one page with everything her sitter needs. Pressed into soft pink paper, on purpose.
 
